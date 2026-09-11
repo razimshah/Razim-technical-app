@@ -1,2 +1,2 @@
-# Razim-technical-app
-Razim Technical Android App Download
+# Vidmate -app
+Vidmate Android App Download
